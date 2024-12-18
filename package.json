@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "expess": "^0.0.1-security",
     "gh-pages": "^6.2.0"
   }
 }
