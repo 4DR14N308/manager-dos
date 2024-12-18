@@ -10,6 +10,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "gh-pages": "^6.2.0"
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "expess": "^0.0.1-security",
+    "express-session": "^1.18.1",
+    "gh-pages": "^6.2.0",
+    "sqlite3": "^5.1.7"
   }
 }
